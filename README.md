@@ -31,7 +31,7 @@ If running localy:
 
 💻 Deployed URL:
 
-https://mytechblog-app-2e8adc2daa49.herokuapp.com/ 
+https://my-google-booksearch1.onrender.com/
 
 ## Mock-up
 
