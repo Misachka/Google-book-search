@@ -35,7 +35,11 @@ https://mytechblog-app-2e8adc2daa49.herokuapp.com/
 
 ## Mock-up
 
+![Alt text](image.png)
 
+Saved books:
+
+![Alt text](image-1.png) 
 
 
 ## License
